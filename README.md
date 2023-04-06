@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MARTHI CHAITANYA . Nice to Meet You</h1>
 <h3 align="center">CSE-ARTIFICIAL INTELLENGENCE STUDENT</h3>
-<h3 align="center"></h3>
+<h3 align="center">B-TECH</h3>
 <h2 Interests </h2> 
   MY INTERESTS:
  <p>Artifical intellengence</p>
