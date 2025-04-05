@@ -3,7 +3,7 @@
 <h3 align="center">B-TECH</h3>
 <h2 Interests </h2> 
   MY INTERESTS:
- <p>Artifical intellengence</p>
+ <p>Generative Artifical intellengence</p>
   <p>Machine Learning,</p>
    <p> Computer vision
   ,Deep learning,NLP</p>
